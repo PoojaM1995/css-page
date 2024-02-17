@@ -1,1 +1,1 @@
-Create Furniture page by using html and css inside this we use tags, selectors to give id address. Inside this we used display flex, universal selector etc for making this page good effect we put color, background color.
+Create Furniture page by using html and css. We include images each furniture item using the <img> tag. Use various selectors like element selectors, class selectors, and ID selectors. Inside this we used display flex, universal selector etc for making this page good effect we put color, Apply background colors to different sections or use background images.
