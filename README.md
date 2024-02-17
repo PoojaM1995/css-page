@@ -1,0 +1,1 @@
+Create Furniture page by using html and css inside this we use tags, selectors to give id address. Inside this we used display flex, universal selector etc for making this page good effect we put color, background color.
